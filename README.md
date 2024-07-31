@@ -122,9 +122,7 @@ The backend will now be up and running, providing the APIs required for the syst
 Checkout the screenshots below for reference before installation :)
 
 <img src='assets/TN1.png' />
-## 
 <img src='assets/TN2.png' />
-## 
 <img src='assets/TN3.png' />
 <img src='assets/TN4.png' />
 <img src='assets/TN5.png' />
